@@ -6,3 +6,4 @@ dist/
 .DS_Store
 build/
 *.tmp
+.pytest_cache/
